@@ -1,0 +1,15 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "wails-nextjs-template",
+  "outputfilename": "wails-nextjs-template",
+  "frontend:install": "pnpm install",
+  "frontend:build": "pnpm run build",
+  "frontend:dev:watcher": "pnpm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "qiang.zeng",
+    "email": "qiang.zeng@iglooinsure.com"
+  }
+}
+
+
